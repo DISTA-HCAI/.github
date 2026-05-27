@@ -41,10 +41,11 @@ A core theme in our recent work is **language model immunisation**: making open-
 
 | | |
 |---|---|
-| **Sabrina Sicari** | Associate Professor |
-| **Jesús F. Cevallos-Moreno** | PhD Researcher |
-| **Alessandra Rizzardi** | Researcher |
 | **Alberto Coen-Porisini** | Full Professor |
+| **Sabrina Sicari** | Full Professor |
+| **Alessandra Rizzardi** | Associate Professor |
+| **Jesús F. Cevallos-Moreno** | Research Fellow |
+
 
 *Dipartimento di Scienze Teoriche e Applicate (DISTA), Università degli Studi dell'Insubria — Varese, Italy*
 
